@@ -2,9 +2,9 @@
 
 ## Workflows
 
-1. Update config.yml
-2. Update schema.yml
-3. Update params.yml
+1. Update config.yaml
+2. Update schema.yaml
+3. Update params.yaml
 4. Update entity
 5. Update configuration manager (configuration.py) in src config
 6. Update components
